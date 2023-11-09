@@ -18,7 +18,7 @@ Built using: HTML, CSS, JAVASCRIPT.
 ***RESPONSIVE LAYOUT TO IMPLEMENT***
 
 ## interactive rating component
-Repository: [GitHub](https://github.com/jionnyMagiah/interactive-rating-component-main)
+Repository: [GitHub](https://github.com/jionnyMagiah/interactive-rating-component-main)  
 Solution: [GitHub Pages](https://jionnymagiah.github.io/interactive-rating-component-main/)
 Built using: HTML, CSS, JAVASCRIPT.  
 ***RESPONSIVE LAYOUT TO IMPLEMENT***
