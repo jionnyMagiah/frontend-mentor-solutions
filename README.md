@@ -7,4 +7,5 @@ Links to the repositories of my personal solutions to Frontend Mentors challenge
 Repository: [GitHub](https://github.com/jionnyMagiah/results-summary-component-main)  
 Solution: [GitHub Pages](https://jionnymagiah.github.io/results-summary-component-main/)
 
-Built using: HTML, CSS, JAVASCRIPT.
+Built using: HTML, CSS, JAVASCRIPT.  
+*** RESPONSIVE LAYOUT TO IMPLEMENT ***
