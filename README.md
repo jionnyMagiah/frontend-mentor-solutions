@@ -14,13 +14,13 @@ Built using: HTML, CSS, JAVASCRIPT.
 Repository: [GitHub](https://github.com/jionnyMagiah/product-preview-card-component-main/)  
 Solution: [GitHub Pages](https://jionnymagiah.github.io/product-preview-card-component-main/)
 
-
 Built using: HTML, CSS, JAVASCRIPT.  
 ***RESPONSIVE LAYOUT TO IMPLEMENT***
 
 ## interactive rating component
 Repository: [GitHub](https://github.com/jionnyMagiah/interactive-rating-component-main)  
 Solution: [GitHub Pages](https://jionnymagiah.github.io/interactive-rating-component-main/)
+
 Built using: HTML, CSS, JAVASCRIPT.  
 ***RESPONSIVE LAYOUT TO IMPLEMENT***
 
