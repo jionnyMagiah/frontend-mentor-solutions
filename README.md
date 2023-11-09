@@ -8,4 +8,4 @@ Repository: [GitHub](https://github.com/jionnyMagiah/results-summary-component-m
 Solution: [GitHub Pages](https://jionnymagiah.github.io/results-summary-component-main/)
 
 Built using: HTML, CSS, JAVASCRIPT.  
-*** RESPONSIVE LAYOUT TO IMPLEMENT ***
+***RESPONSIVE LAYOUT TO IMPLEMENT***
