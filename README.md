@@ -25,3 +25,9 @@ Built using: HTML, CSS, JAVASCRIPT.
 ***RESPONSIVE LAYOUT TO IMPLEMENT***
 
 
+##  qr code component 
+Repository: [GitHub](https://github.com/jionnyMagiah/qr-code-component-main)  
+Solution: [GitHub Pages](https://jionnymagiah.github.io/qr-code-component-main/)
+
+Built using: HTML, CSS, JAVASCRIPT.  
+***RESPONSIVE LAYOUT TO IMPLEMENT***
