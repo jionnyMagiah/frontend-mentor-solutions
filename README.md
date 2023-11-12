@@ -34,7 +34,7 @@ Built using: HTML, CSS, JAVASCRIPT.
 # Advanced Challenges
 
 ## REST Countries API with color theme switcher
-Repository: [GitHub](https://github.com/jionnyMagiah/rest-countries-api-with-color-theme-switcher-master)
+Repository: [GitHub](https://github.com/jionnyMagiah/rest-countries-api-with-color-theme-switcher-master)  
 Solution: [Cloudflare Pages](https://rest-countries-api-with-color-theme-switcher-master.pages.dev/)
 
 Built using: HTML, CSS, JAVASCRIPT, Svelte, SvelteKit.  
